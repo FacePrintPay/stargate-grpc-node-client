@@ -21,3 +21,5 @@ export declare const toUUIDString: (value: Value) => string;
  */
 export declare const toCQLTime: (value: Value) => number;
 //# sourceMappingURL=values.d.ts.map
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=values.d.ts

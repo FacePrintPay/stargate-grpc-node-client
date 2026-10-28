@@ -17,3 +17,5 @@ var global = Function('return this')();
 
 var query_pb = require('./query_pb.js');
 goog.object.extend(proto, query_pb);
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=stargate_pb.js

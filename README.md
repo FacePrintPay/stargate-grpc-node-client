@@ -304,3 +304,5 @@ You can reference the [CONTRIBUTING.md](CONTRIBUTING.md) and [DEV_GUIDE.md](DEV_
 - If you've found a bug (use the bug label) or want to request a new feature (use the enhancement label), file a GitHub issue
 - If you're not sure about it or want to chat, reach out on our [Discord](https://discord.gg/GravUqY)
 - If you want to write some user docs 🎉 head over to the [stargate/docs](https://github.com/stargate/docs) repo, Pull Requests accepted!
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md

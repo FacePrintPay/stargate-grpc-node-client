@@ -14,3 +14,5 @@ Fixes #<issue number>
 - [ ] Automated Tests added/updated
 - [ ] Documentation added/updated
 - [ ] CLA Signed: [DataStax CLA](https://cla.datastax.com/)
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=pull_request_template.md

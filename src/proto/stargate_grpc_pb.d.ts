@@ -28,3 +28,5 @@ export class StargateClient extends grpc.Client {
   executeBatch(argument: query_pb.Batch, metadataOrOptions: grpc.Metadata | grpc.CallOptions | null, callback: grpc.requestCallback<query_pb.Response>): grpc.ClientUnaryCall;
   executeBatch(argument: query_pb.Batch, metadata: grpc.Metadata | null, options: grpc.CallOptions | null, callback: grpc.requestCallback<query_pb.Response>): grpc.ClientUnaryCall;
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=stargate_grpc_pb.d.ts
